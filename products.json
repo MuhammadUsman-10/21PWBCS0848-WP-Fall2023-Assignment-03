@@ -1,0 +1,134 @@
+[
+    {
+        "Name": "Arduino Nano",
+        "Category": "Development Board",
+        "Price": 1500,
+        "imageUrl": "https://invize.se/wp-content/uploads/2020/05/arduino-nano-r3-1.jpg"
+    },
+    {
+        "Name": "Arduino UNO R3",
+        "Category": "Development Board",
+        "Price": 3000,
+        "imageUrl": "https://www.protechtrader.com/image/data/Arduino-UNO-R3-DIP.jpg"
+    },
+    {
+        "Name": "Arduino Mega",
+        "Category": "Development Board",
+        "Price": 4500,
+        "imageUrl": "arduino_mega.jpg (800×600) (wordpress.com)"
+    },
+    {
+        "Name": "IR Sensor",
+        "Category": "Sensors",
+        "Price": 250,
+        "imageUrl": "ir-sensor_2048x2048-1000x1000.jpg (1000×1000) (easyelectronics.in)"
+    },
+    {
+        "Name": "UV sensor",
+        "Category": "Sensors",
+        "Price": 300,
+        "imageUrl": "https://www.easyelectronics.in/image/cache/catalog/Products/ultrasonic-sensor-1000x1000.jpg"
+    },
+    {
+        "Name": "DC Motor",
+        "Category": "Motors",
+        "Price": 200,
+        "imageUrl": "12-volt-DC-motor.jpg (3872×2592) (metmotors.com)"
+    },
+    {
+        "Name": "Li-Po Battery",
+        "Category": "Battery",
+        "Price": 5000,
+        "imageUrl": "storm-1111525-1-big.jpg (1024×1024) (udvabony.com)"
+    },
+    {
+        "Name": "18650 3.7v Cell",
+        "Category": "Battery",
+        "Price": 300,
+        "imageUrl": "LiFePo4_General_01.jpg (2922×2546) (enerpower.de)"
+    },
+    {
+        "Name": "Raspberry pi",
+        "Category": "Development Board",
+        "Price": 1200,
+        "imageUrl": "pico.jpg (1607×1231) (sunfounder.com)"
+    },
+    {
+        "Name": "Water Sensor",
+        "Category": "Sensors",
+        "Price": 350,
+        "imageUrl": "Water_Level_Sensor_1-800x800.jpg (800×800) (potentiallabs.com)"
+    },
+    {
+        "Name": "Smoke Sensor",
+        "Category": "Sensors",
+        "Price": 250,
+        "imageUrl": "MQ2-SMOKE-SENSOR-2048x2048.jpg (2048×2048) (majju.pk)"
+    },
+    {
+        "Name": "Jumper Wires",
+        "Category": "Accessories",
+        "Price": 100,
+        "imageUrl": "61nHxQZGSTL._AC_SL1000_.jpg (956×856) (ssl-images-amazon.com)"
+    },
+    {
+        "Name": "Breadboard",
+        "Category": "Accessories",
+        "Price": 150,
+        "imageUrl": "PL-351.jpg (1500×1500) (littlebird.com.au)"
+    },
+    {
+        "Name": "ESP32",
+        "Category": "Development Board",
+        "Price": 1500,
+        "imageUrl": "ESP32.jpg?raw=true (880×699) (cloudinary.com)"
+    },
+    {
+        "Name": "Lithium Battery",
+        "Category": "Battery",
+        "Price": 700,
+        "imageUrl": "4-7-1-scaled.jpg (2560×2123) (drewcraft.com)"
+    },
+    {
+        "Name": "BLDC Motor",
+        "Category": "Motors",
+        "Price": 1500,
+        "imageUrl": "bldc-motor-1.jpg (1010×1010) (graylogix.in)"
+    },
+    {
+        "Name": "ESCs",
+        "Category": "Accessories",
+        "Price": 600,
+        "imageUrl": "f1ceec8ba6b6d4ad9f6cf5167ea1813f_f1577.jpg (620×400) (hobbytech.com.au)"
+    },
+    {
+        "Name": "Transmitter",
+        "Category": "Accessories",
+        "Price": 6000,
+        "imageUrl": "https://alexnld.com/wp-content/uploads/2015/07/SKU233735-6.jpg"
+    },
+    {
+        "Name": "Stepper Motor",
+        "Category": "Motors",
+        "Price": 1800,
+        "imageUrl": "canada.newark.com/productimages/large/en_GB/2507562-40.jpg"
+    },
+    {
+        "Name": "Bluetooth Module",
+        "Category": "Accessories",
+        "Price": 800,
+        "imageUrl": "SKU188556B.jpg (600×600) (staticbg.com)"
+    },
+    {
+        "Name": "Servo Motor",
+        "Category": "Motors",
+        "Price": 600,
+        "imageUrl": "01-13.jpg (1134×1134) (phippselectronics.com)"
+    },
+    {
+        "Name": "Dry Cell",
+        "Category": "Battery",
+        "Price": 2600,
+        "imageUrl": "dry-cell-battery-500x500.png (489×489) (imimg.com)"
+    }
+]
